@@ -1,1 +1,1 @@
-# geog370spring2023
+# GEOG370Spring2023
